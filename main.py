@@ -11,3 +11,11 @@ def get_environment_variable(key):
         pass
 
     return variable
+
+def get_environment_variable_token():
+    try:
+        variable = os.environ["token"]
+    except
+        pass
+
+    return variable
