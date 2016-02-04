@@ -26,6 +26,6 @@ def get_environment_variable_mysql_passwd():
     try:
         variable = os.environ["mysql_passwd"]
     except
-        sys.exit(1) 
+        pass
 
     return variable
