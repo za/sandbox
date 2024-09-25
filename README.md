@@ -9,3 +9,7 @@ Adinda Shalahita
 # Now learning musical instrument
 
 Piano
+
+# Now eating
+
+Fruit salad
